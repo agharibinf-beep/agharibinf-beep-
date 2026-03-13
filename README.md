@@ -1,5 +1,5 @@
 # About Me:
- I’m currently working on<br> I’m looGharib Abd Elkarim is a Computer Science student with an academic interest in the integration of computational methods with biological and medical research. His work focuses on developing expertise in data science and applying computational approaches within in silico research environments, where data-driven methods support the analysis and understanding of complex biological systems.<br><br>His objective is to continue advancing his knowledge in computer science while contributing to interdisciplinary research efforts that leverage computational technologies to address challenges in the life sciences and biomedical fields.king to collaborate on<br>
+ I’m looGharib Abd Elkarim is a Computer Science student with an academic interest in the integration of computational methods with biological and medical research. His work focuses on developing expertise in data science and applying computational approaches within in silico research environments, where data-driven methods support the analysis and understanding of complex biological systems.<br><br>His objective is to continue advancing his knowledge in computer science while contributing to interdisciplinary research efforts that leverage computational technologies to address challenges in the life sciences and biomedical fields.
 
 
 ## 🌐 Socials:
